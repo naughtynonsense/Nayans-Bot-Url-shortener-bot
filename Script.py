@@ -24,16 +24,22 @@ class script(object):
 <i><b>100% ғᴀsᴛ & ǫᴜᴀʟɪᴛʏ</i></b>
 ▬▬▬▬▬▬▬▬▬▬▬▬"""
 
-    HELP_TXT = """<b><i><u>How To Request A Movie💡</b></i></u>
+    HELP_TXT = """<b><i><u>How To Request A Series💡</b></i></u>
 
-𝐷𝑜𝑛𝑡 𝑇𝑦𝑝𝑒 𝑀𝑜𝑣𝑖𝑒 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠 𝑊𝑖𝑡ℎ 𝑡ℎ𝑒 𝑇𝑖𝑡𝑙𝑒..❗️
-𝐷𝑜𝑛'𝑡 𝑇𝑦𝑝𝑒 𝑊𝑜𝑟𝑑𝑠 𝐿𝑖𝑘𝑒 (𝐻𝐷, 𝑀𝑜𝑣𝑖𝑒, &  𝑒𝑡𝑐..) 
-𝑆𝑒𝑛𝑑 𝑀𝑂𝑉𝐼𝐸 𝑁𝐴𝑀𝐸  𝐴𝑁𝐷 𝑌𝐸𝐴𝑅 𝑂𝑛𝑙𝑦 𝐹𝑜𝑟 𝐵𝑒𝑡𝑡𝑒𝑟 𝑅𝑒𝑠𝑢𝑙𝑡...❕
+𝐷𝑜𝑛𝑡 𝑇𝑦𝑝𝑒 𝑆𝑒𝑟𝑖𝑒𝑠 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠 𝑊𝑖𝑡ℎ 𝑡ℎ𝑒 𝑇𝑖𝑡𝑙𝑒..❗️
+𝐷𝑜𝑛'𝑡 𝑇𝑦𝑝𝑒 𝑊𝑜𝑟𝑑𝑠 𝐿𝑖𝑘𝑒 (𝑆𝑒𝑎𝑠𝑜𝑛, 𝐸𝑝𝑖𝑠𝑜𝑑𝑒, 𝑆𝑒𝑟𝑖𝑒𝑠 &  𝑒𝑡𝑐..) 
+𝑆𝑒𝑛𝑑 𝑆𝐸𝑅𝐼𝐸𝑆 𝑁𝐴𝑀𝐸 𝑂𝑛𝑙𝑦 𝑂𝑟 𝐴𝑡𝑡𝑎𝑐ℎ 𝑇ℎ𝑖𝑠 𝐷𝑒𝑚𝑜 𝑊𝑖𝑡ℎ 𝑇ℎ𝑒 𝑇𝑖𝑡𝑙𝑒 𝐹𝑜𝑟 𝐴 𝐵𝑒𝑡𝑡𝑒𝑟 𝑅𝑒𝑠𝑢𝑙𝑡...❕
+
+<b><u>DEMO :</b></u><i>
+S01E01, S05E23, S09E10</i>
 
 <b><u>Examples</b></u><i>
-Monster Malayalam Movie ❌
-Monster 2022 ✔️
- Monster ✔️</i>"""
+Riverdale season 03 ❌(wrong)
+Riverdale S1 ❌(wrong)
+Riverdale S01 ✔️(right)
+Riverdale E05 ❌(wrong)
+Riverdale S01E05 ✔️(right)
+Riverdale ✔️(right)</i>"""
     ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/ffseriesbot>sᴇʀɪᴇs ʙᴏᴛ</a>\n
 👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://www.instagram.com/naughty__nonsense/>ᴍᴀɴᴀғ</a>\n
 🎞 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ : <a href=https://t.me/freakersfilmy>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
