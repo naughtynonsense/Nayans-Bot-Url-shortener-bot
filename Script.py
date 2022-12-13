@@ -36,10 +36,10 @@ S01E01, S05E23, S09E10</i>
 <b><u>Examples</b></u><i>
 Riverdale season 03 ❌(wrong)
 Riverdale S1 ❌(wrong)
-Riverdale S01 ✔️(right)
+Riverdale S01 ✅(right)
 Riverdale E05 ❌(wrong)
-Riverdale S01E05 ✔️(right)
-Riverdale ✔️(right)</i>"""
+Riverdale S01E05 ✅(right)
+Riverdale ✅(right)</i>"""
     ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/ffseriesbot>sᴇʀɪᴇs ʙᴏᴛ</a>\n
 👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://www.instagram.com/naughty__nonsense/>ᴍᴀɴᴀғ</a>\n
 🎞 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ : <a href=https://t.me/freakersfilmy>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
