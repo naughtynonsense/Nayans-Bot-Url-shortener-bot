@@ -44,9 +44,9 @@ IMDB = is_enabled((environ.get('IMDB', "True")), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "True")), False)
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "<b><i>ᴛɪᴛʟᴇ:</b></i> <code>{file_name}</code>\n▬▬▬▬▬▬▬▬▬▬▬▬\n🍃<b><i>Movies Update Channel</b></i>🍃\n<i>@freakersmovie</i>\n🍃<b><i>Series Update Channel</b></i>🍃\n<i>@freakers_series</i>\n▬▬▬▬▬▬▬▬▬▬▬▬\n☘𝙅𝙤𝙞𝙣:-<b><i>https://t.me/freakersmovie</b></i>\n\n🧐𝙁𝙧𝙚𝙖𝙠𝙚𝙧𝙨🎭𝙁𝙞𝙡𝙢𝙮™🍿©\n100% ғᴀꜱᴛ & ϙᴜᴀʟɪᴛʏ\n▬▬▬▬▬▬▬▬▬▬▬▬")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", "")
-IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", "🎙 <i><b>ᴛɪᴛʟᴇ</i></b> : <a href={url}>{title}</a> \n🧭 <i><b>ʏᴇᴀʀ</i></b> : {release_date}-{year} \n🎯 <i><b>ʀᴀᴛɪɴɢ</i></b> : <a href={url}>IMDb</a>⭐️ {rating}/10 \n🎭 <i><b>ɢᴇɴʀᴇ</i></b> : {genres} \n📚 <i><b>ʟᴀɴɢᴜᴀɢᴇ</i></b> : {languages}\n\n🎊 <i><b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ</i></b> : <i>[ғʀᴇᴀᴋᴇʀsғɪʟᴍʏ](https://t.me/freakersfilmy)</i>")
+IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", "🎙 <i><b>ᴛɪᴛʟᴇ</i></b> : <a href={url}>{title}</a> \n🧭 <i><b>ʏᴇᴀʀ</i></b> : {release_date} \n🎯 <i><b>ʀᴀᴛɪɴɢ</i></b> : <a href={url}>IMDb</a>⭐️ {rating}/10 \n🎭 <i><b>ɢᴇɴʀᴇ</i></b> : {genres} \n📚 <i><b>ʟᴀɴɢᴜᴀɢᴇ</i></b> : {languages}\n\n🎊 <i><b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ</i></b> : <i>[ғʀᴇᴀᴋᴇʀsғɪʟᴍʏ](https://t.me/freakersfilmy)</i>")
 LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "True"), False)
-SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "True"), True)
+SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "False"), True)
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
 INDEX_REQ_CHANNEL = int(environ.get('INDEX_REQ_CHANNEL', LOG_CHANNEL))
 FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1001855090915')).split()]
@@ -73,7 +73,7 @@ URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '2948014f60b7
 
      # Auto Delete For Group Message (Self Delete) #
 SELF_DELETE_SECONDS = int(environ.get('SELF_DELETE_SECONDS', 3600))
-SELF_DELETE = environ.get('SELF_DELETE', True)
+SELF_DELETE = environ.get('SELF_DELETE', False)
 if SELF_DELETE == "True":
     SELF_DELETE = True
 
