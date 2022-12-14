@@ -40,16 +40,17 @@ Riverdale S01 ✅(right)
 Riverdale E05 ❌(wrong)
 Riverdale S01E05 ✅(right)
 Riverdale ✅(right)</i>"""
-    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/ffseriesbot>sᴇʀɪᴇs ʙᴏᴛ</a>\n
+    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Im_Nayansbot>ɴᴀʏᴀɴs ʙᴏᴛ</a>\n
 👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://www.instagram.com/naughty__nonsense/>ᴍᴀɴᴀғ</a>\n
 🎞 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ : <a href=https://t.me/freakersfilmy>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 🎙 ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/freakersmovie>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 📺 sᴇʀɪᴇs ɢʀᴏᴜᴘ : <a href=https://t.me/FF_Series_Only>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 🎙 sᴇʀɪᴇs ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/freakers_series>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
-📺 ᴍᴏᴠɪᴇs ʙᴏᴛ  : <a href=https://t.me/freakersfilterbot>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
+🎬 ᴍᴏᴠɪᴇs ʙᴏᴛ  : <a href=https://t.me/freakersfilterbot>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
+📺 sᴇʀɪᴇs ʙᴏᴛ  : <a href=https://t.me/ffseriesbot>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 🔞 18+ ʙᴏᴛ : <a href=https://t.me/A4_Adultsbot>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
-✍🏼 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 3\n
-📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ\n
+✍🏼 ʟᴀɴɢᴜᴀɢᴇ : <a href=https://t.me/freakersfilmy>ᴘʏᴛʜᴏɴ 3</a>\n
+📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : <a href=https://t.me/FF_Series_Only>ᴘʏʀᴏɢʀᴀᴍ</a>\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href=https://railway.app/>ʀᴀɪʟᴡᴀʏ</a>\n
 ⚙ sᴏᴜʀᴄᴇ  : <a href=https://github.com/>ɢɪᴛʜᴜʙ</a>\n
 ⚡️ ᴠᴇʀsɪᴏɴ : <a href=https://t.me/naughty_nonsense>ᴠ4.0</a>\n</b></i>"""
@@ -135,14 +136,14 @@ This module only works for my admins
 ★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
     LOG_TEXT_G = """<u>#𝐍𝐞𝐰𝐆𝐫𝐨𝐮𝐩</u>
 
-<b>᚛› 𝐁𝐨𝐭 ⪼ </b>𝑺𝒆𝒓𝒊𝒆𝒔 𝑺𝒆𝒂𝒓𝒄𝒉 🔎 𝑩𝒐𝒕\n    
+<b>᚛› 𝐁𝐨𝐭 ⪼ </b>𝙉𝙖𝙮𝙖𝙣𝙨\n    
 <b>᚛› 𝐆𝐫𝐨𝐮𝐩 ⪼ {}(<code>{}</code>)</b>
 <b>᚛› 𝐓𝐨𝐭𝐚𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 ⪼ <code>{}</code></b>
 <b>᚛› 𝐀𝐝𝐝𝐞𝐝 𝐁𝐲 ⪼ {}</b>
 """
     LOG_TEXT_P = """<u>#𝐍𝐞𝐰𝐔𝐬𝐞𝐫</u>  
 
-<b>᚛› 𝐁𝐨𝐭 ⪼ </b>𝑺𝒆𝒓𝒊𝒆𝒔 𝑺𝒆𝒂𝒓𝒄𝒉 🔎 𝑩𝒐𝒕
+<b>᚛› 𝐁𝐨𝐭 ⪼ </b>𝙉𝙖𝙮𝙖𝙣𝙨
 <b>᚛› 𝐈𝐃 - <code>{}</code></b>
 <b>᚛› 𝐍𝐚𝐦𝐞 - {}</b>
 """
