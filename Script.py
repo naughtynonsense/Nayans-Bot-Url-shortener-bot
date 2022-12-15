@@ -13,33 +13,27 @@ def is_enabled(value, default):
 class script(object):
     HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://beingtek.com/ref/GreyMatter658')
     START_TXT = """<b><i>ʜᴇʟʟᴏ..👋</b></i> {}
-       <b><i>ʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ sᴇᴀʀᴄʜ ʏᴏᴜʀ ᴍᴏsᴛ ғᴀᴠᴏʀɪᴛᴇ ᴛᴠ/ᴡᴇʙ sᴇʀɪᴇs.
-ᴊᴜsᴛ ᴛʏᴘᴇ ʏᴏᴜʀ ᴛᴠ/ᴡᴇʙ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ sᴇɴᴅ ᴛᴏ ᴍᴇ ᴏʀ ɢʀᴏᴜᴘ...\n
-ʏᴏᴜ ᴍᴜsᴛ ʙᴇ ᴀ ᴍᴇᴍʙᴇʀ ᴏғ <a href=https://t.me/freakers_series><b><i>ғʀᴇᴀᴋᴇʀs sᴇʀɪᴇs</i></b></a> ᴛᴏ ᴜsᴇ ᴍᴇ..\n
+       <b><i>ᴍʏ ɴᴀᴍᴇ ɴᴀʏᴀɴs ...ɪᴀᴍ ᴀ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ.
+ᴊᴜsᴛ ᴛʏᴘᴇ ʏᴏᴜʀ ᴍᴏᴠɪᴇs ɴᴀᴍᴇ ᴀɴᴅ sᴇɴᴅ ᴛᴏ ᴍʏ ɢʀᴏᴜᴘ...\n
+ᴅᴏɴ'ᴛ ᴀsᴋ ᴍᴏᴠɪᴇs ɪɴ ᴍʏ ᴘʀɪᴠᴀᴛᴇ.. 
+ʏᴏᴜ ᴍᴜsᴛ ʙᴇ ᴀ ᴍᴇᴍʙᴇʀ ᴏғ <a href=https://t.me/freakersmovie><b><i>ғʀᴇᴀᴋᴇʀs ᴍᴏᴠɪᴇs</i></b></a> ᴛᴏ ᴜsᴇ ᴍᴇ..\n
 ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟs ᴄʟɪᴄᴋ</i></b> <u>𝑯𝑬𝑳𝑷</u> <i><b>ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ.. 👇\n
 ɪғ ʏᴏᴜ ɴᴇᴇᴅ ᴀɴʏ ᴏᴛʜᴇʀ /🤖ʙᴏᴛs /📂ᴄʜᴀɴɴᴇʟ /🎙️ɢʀᴏᴜᴘs/ ᴄʟɪᴄᴋ ᴛʜᴇ</i></b> <u>𝑨𝑩𝑶𝑼𝑻</u> <i><b>ʙᴜᴛᴛᴏɴ..!</i></b>\n
 <i><b>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href=https://t.me/naughty_nonsense>ɴᴀᴜɢʜᴛʏ ɴᴏɴsᴇɴsᴇ</i></b></a>
-<i><b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ  : <a href=https://t.me/FF_Series_Only>ғʀᴇᴀᴋᴇʀs sᴇʀɪᴇs</i></b></a>\n
+<i><b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ  : <a href=https://t.me/freakersfilmy>ғʀᴇᴀᴋᴇʀs ғɪʟᴍʏ</i></b></a>\n
 🎬𝑭𝒓𝒆𝒂𝒌𝒆𝒓𝒔🎭𝑭𝒊𝒍𝒎𝒚🍟
 <i><b>100% ғᴀsᴛ & ǫᴜᴀʟɪᴛʏ</i></b>
 ▬▬▬▬▬▬▬▬▬▬▬▬"""
 
     HELP_TXT = """<b><i><u>How To Request A Series💡</b></i></u>
 
-𝐷𝑜𝑛𝑡 𝑇𝑦𝑝𝑒 𝑆𝑒𝑟𝑖𝑒𝑠 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠 𝑊𝑖𝑡ℎ 𝑡ℎ𝑒 𝑇𝑖𝑡𝑙𝑒..❗️
-𝐷𝑜𝑛'𝑡 𝑇𝑦𝑝𝑒 𝑊𝑜𝑟𝑑𝑠 𝐿𝑖𝑘𝑒 (𝑆𝑒𝑎𝑠𝑜𝑛, 𝐸𝑝𝑖𝑠𝑜𝑑𝑒, 𝑆𝑒𝑟𝑖𝑒𝑠 &  𝑒𝑡𝑐..) 
-𝑆𝑒𝑛𝑑 𝑆𝐸𝑅𝐼𝐸𝑆 𝑁𝐴𝑀𝐸 𝑂𝑛𝑙𝑦 𝑂𝑟 𝐴𝑡𝑡𝑎𝑐ℎ 𝑇ℎ𝑖𝑠 𝐷𝑒𝑚𝑜 𝑊𝑖𝑡ℎ 𝑇ℎ𝑒 𝑇𝑖𝑡𝑙𝑒 𝐹𝑜𝑟 𝐴 𝐵𝑒𝑡𝑡𝑒𝑟 𝑅𝑒𝑠𝑢𝑙𝑡...❕
+𝐷𝑜𝑛'𝑡 𝑆𝑒𝑛𝑑  𝑀𝑜𝑣𝑖𝑒 𝑁𝑎𝑚𝑒 𝑇𝑜 𝑀𝑒..
+𝑆𝑒𝑛𝑑 𝑀𝑜𝑣𝑖𝑒 𝑁𝑎𝑚𝑒 𝑇𝑜 𝑂𝑢𝑟 𝐺𝑟𝑜𝑢𝑝... 
+𝐷𝑜𝑛𝑡 𝑇𝑦𝑝𝑒 𝑀𝑜𝑣𝑖𝑒 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠 𝑊𝑖𝑡ℎ 𝑡ℎ𝑒 𝑇𝑖𝑡𝑙𝑒..❗️
+𝐷𝑜𝑛'𝑡 𝑇𝑦𝑝𝑒 𝑊𝑜𝑟𝑑𝑠 𝐿𝑖𝑘𝑒 (𝑀𝑜𝑣𝑖𝑒, 𝐶𝑖𝑛𝑒𝑚𝑎, 𝑓𝑖𝑙𝑚, 𝐻𝐷 & 𝑒𝑡𝑐..) 
+𝑆𝑒𝑛𝑑 𝑀𝑂𝑉𝐼𝐸 𝑁𝐴𝑀𝐸 & 𝑌𝐸𝐴𝑅 𝑂𝑛𝑙𝑦 𝐹𝑜𝑟 𝐴 𝐵𝑒𝑡𝑡𝑒𝑟 𝑅𝑒𝑠𝑢𝑙𝑡...❕
 
-<b><u>DEMO :</b></u><i>
-S01E01, S05E23, S09E10</i>
-
-<b><u>Examples</b></u><i>
-Riverdale season 03 ❌(wrong)
-Riverdale S1 ❌(wrong)
-Riverdale S01 ✅(right)
-Riverdale E05 ❌(wrong)
-Riverdale S01E05 ✅(right)
-Riverdale ✅(right)</i>"""
+"""
     ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Im_Nayansbot>ɴᴀʏᴀɴs ʙᴏᴛ</a>\n
 👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://www.instagram.com/naughty__nonsense/>ᴍᴀɴᴀғ</a>\n
 🎞 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ : <a href=https://t.me/freakersfilmy>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
