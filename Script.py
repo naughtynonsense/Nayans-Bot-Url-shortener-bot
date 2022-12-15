@@ -25,7 +25,7 @@ class script(object):
 <i><b>100% ғᴀsᴛ & ǫᴜᴀʟɪᴛʏ</i></b>
 ▬▬▬▬▬▬▬▬▬▬▬▬"""
 
-    HELP_TXT = """<b><i><u>How To Request A Series💡</b></i></u>
+    HELP_TXT = """<b><i><u>How To Request A Movie💡</b></i></u>
 
 𝐷𝑜𝑛'𝑡 𝑆𝑒𝑛𝑑  𝑀𝑜𝑣𝑖𝑒 𝑁𝑎𝑚𝑒 𝑇𝑜 𝑀𝑒..
 𝑆𝑒𝑛𝑑 𝑀𝑜𝑣𝑖𝑒 𝑁𝑎𝑚𝑒 𝑇𝑜 𝑂𝑢𝑟 𝐺𝑟𝑜𝑢𝑝... 
