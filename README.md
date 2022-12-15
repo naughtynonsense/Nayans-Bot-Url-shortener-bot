@@ -72,7 +72,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/greymattersbot/url-auto-delete-shortener-bot">
+<a href="https://heroku.com/deploy?template=https://github.com/naughtynonsense/Nayans-Bot-Url-shortener-bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -92,7 +92,7 @@ python3 bot.py
 </p>
 </details>
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/LiKdX4?referralCode=BOT-AC)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/2SjZfa?referralCode=IM_NAYANS)
 
 
 ## Commands
