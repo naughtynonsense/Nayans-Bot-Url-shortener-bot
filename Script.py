@@ -16,11 +16,11 @@ class script(object):
        <b><i>ᴍʏ ɴᴀᴍᴇ ɴᴀʏᴀɴs ...ɪᴀᴍ ᴀ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ.
 ᴊᴜsᴛ ᴛʏᴘᴇ ʏᴏᴜʀ ᴍᴏᴠɪᴇs ɴᴀᴍᴇ ᴀɴᴅ sᴇɴᴅ ᴛᴏ ᴍʏ ɢʀᴏᴜᴘ...\n
 ᴅᴏɴ'ᴛ ᴀsᴋ ᴍᴏᴠɪᴇs ɪɴ ᴍʏ ᴘʀɪᴠᴀᴛᴇ.. 
-ʏᴏᴜ ᴍᴜsᴛ ʙᴇ ᴀ ᴍᴇᴍʙᴇʀ ᴏғ <a href=https://t.me/+ERyRrnI5CPEyYmFl><b><i>ғʀᴇᴀᴋᴇʀs ᴍᴏᴠɪᴇs</i></b></a> ᴛᴏ ᴜsᴇ ᴍᴇ..\n
+ʏᴏᴜ ᴍᴜsᴛ ʙᴇ ᴀ ᴍᴇᴍʙᴇʀ ᴏғ <a href=https://t.me/+HxPeOzEU3nlmMTdl><b><i>ғʀᴇᴀᴋᴇʀs ᴍᴏᴠɪᴇs</i></b></a> ᴛᴏ ᴜsᴇ ᴍᴇ..\n
 ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟs ᴄʟɪᴄᴋ</i></b> <u>𝑯𝑬𝑳𝑷</u> <i><b>ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ.. 👇\n
 ɪғ ʏᴏᴜ ɴᴇᴇᴅ ᴀɴʏ ᴏᴛʜᴇʀ /🤖ʙᴏᴛs /📂ᴄʜᴀɴɴᴇʟ /🎙️ɢʀᴏᴜᴘs/ ᴄʟɪᴄᴋ ᴛʜᴇ</i></b> <u>𝑨𝑩𝑶𝑼𝑻</u> <i><b>ʙᴜᴛᴛᴏɴ..!</i></b>\n
 <i><b>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href=https://t.me/naughty_nonsense>ɴᴀᴜɢʜᴛʏ ɴᴏɴsᴇɴsᴇ</i></b></a>
-<i><b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ  : <a href=https://t.me/freakersfilmy>ғʀᴇᴀᴋᴇʀs ғɪʟᴍʏ</i></b></a>\n
+<i><b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ  : <a href=https://t.me/Freakers_Filmy>ғʀᴇᴀᴋᴇʀs ғɪʟᴍʏ</i></b></a>\n
 🎬𝑭𝒓𝒆𝒂𝒌𝒆𝒓𝒔🎭𝑭𝒊𝒍𝒎𝒚🍟
 <i><b>100% ғᴀsᴛ & ǫᴜᴀʟɪᴛʏ</i></b>
 ▬▬▬▬▬▬▬▬▬▬▬▬"""
@@ -36,14 +36,14 @@ class script(object):
 """
     ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Im_Nayansbot>ɴᴀʏᴀɴs ʙᴏᴛ</a>\n
 👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://www.instagram.com/naughty__nonsense/>ᴍᴀɴᴀғ</a>\n
-🎞 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ : <a href=https://t.me/freakersfilmy>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
-🎙 ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/+ERyRrnI5CPEyYmFl>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
+🎞 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ : <a href=https://t.me/Freakers_Filmy>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
+🎙 ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/+HxPeOzEU3nlmMTdl>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 📺 sᴇʀɪᴇs ɢʀᴏᴜᴘ : <a href=https://t.me/FF_Series_Only>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 🎙 sᴇʀɪᴇs ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/+4NvHgqi9_FRhNjY1>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 🎬 ᴍᴏᴠɪᴇs ʙᴏᴛ  : <a href=https://t.me/freakersfilterbot>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 📺 sᴇʀɪᴇs ʙᴏᴛ  : <a href=https://t.me/ffseriesbot>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 🔞 18+ ʙᴏᴛ : <a href=https://t.me/A4_Adultsbot>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
-✍🏼 ʟᴀɴɢᴜᴀɢᴇ : <a href=https://t.me/freakersfilmy>ᴘʏᴛʜᴏɴ 3</a>\n
+✍🏼 ʟᴀɴɢᴜᴀɢᴇ : <a href=https://t.me/Freakers_Filmy>ᴘʏᴛʜᴏɴ 3</a>\n
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : <a href=https://t.me/FF_Series_Only>ᴘʏʀᴏɢʀᴀᴍ</a>\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href=https://railway.app/>ʀᴀɪʟᴡᴀʏ</a>\n
 ⚙ sᴏᴜʀᴄᴇ  : <a href=https://github.com/>ɢɪᴛʜᴜʙ</a>\n
@@ -73,7 +73,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/freakersfilmy)</code>
+<code>[Button Text](buttonurl:https://t.me/Freakers_Filmy)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
